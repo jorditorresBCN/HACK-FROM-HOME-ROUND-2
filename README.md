@@ -1,5 +1,5 @@
 # HACK-FROM-HOME-ROUND-2
-THE ONLINE HACKATHON OF HACKERS@UPC |  APRIL 4th · 12:00h to 00:00h (GMT+1)
+THE ONLINE HACKATHON OF HACKERS@UPC |  APRIL 4th · 12:00h to 00:00h (GMT+2)
 
 ## Cómo crear y entrenar una red neuronal con sólo 10 líneas de Python
 Esta presentación inicia a los hackers en los conceptos básicos de redes neuronales mediante un caso práctico que con sólo 10 líneas de código Python se crea y entrena una red neuronal que reconoce dígitos escritos a mano. Para ello usaremos la API Keras de TensorFlow, la librería más popular en estos momentos en la comunidad Deep Learning.
